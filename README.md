@@ -1,13 +1,56 @@
-# CS-250-Software-Development-Lifecycle
-SDLC
-### How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+# CS 250 Portfolio Project: Software Development Lifecycle
 
-I interpret user needs by focusing on what the user is trying to accomplish and why it matters. Creating user stories helped break down those needs into smaller, clearer tasks. It made it easier to understand what features needed to be built and how they should function. User stories also helped guide the rest of the development process because they connected the user’s needs directly to the work being completed.
+## Project Summary
 
-### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+This project focused on applying Agile and Scrum practices throughout the software development lifecycle. I worked with user stories, iterative development, testing, feedback, and team collaboration to better understand how software teams organize and deliver work.
 
-I approach developing programs by breaking the work into smaller steps and focusing on one part at a time. This course showed me how helpful Agile processes can be, especially working in short cycles and making updates as needed. In the future, I would like to continue using practices like creating user stories, testing regularly, and making adjustments based on feedback instead of waiting until the end.
+The project helped me see how user needs can be translated into clear development tasks and how Agile practices support continuous improvement throughout the development process.
 
-### What does it mean to be a good team member in software development?
+## Key Concepts and Skills
 
-Being a good team member in software development means communicating clearly, being open to feedback, and completing your part of the work on time. It also means supporting other team members and making sure everyone understands the goal of the project. This course showed me that teamwork is important because each role depends on the others to complete the project successfully.
+- Agile Development
+- Scrum
+- User Stories
+- Software Development Lifecycle
+- Iterative Development
+- Testing
+- Team Collaboration
+- Communication
+- Feedback and Continuous Improvement
+
+## Understanding User Needs
+
+I learned to interpret user needs by focusing on what the user is trying to accomplish and why it matters.
+
+Creating user stories helped break those needs into smaller, clearer tasks and made it easier to understand what features needed to be built and how they should function.
+
+User stories also helped connect the user's needs directly to the development work being completed.
+
+## Agile Development Approach
+
+I approach software development by breaking work into smaller steps and focusing on one part of the project at a time.
+
+This course showed me the value of Agile development, especially working in short cycles, reviewing progress regularly, and making adjustments based on feedback instead of waiting until the end of a project.
+
+In future development work, I would continue using practices such as user stories, iterative development, regular testing, and feedback throughout the development process.
+
+## Team Collaboration
+
+Being a strong team member in software development requires clear communication, openness to feedback, accountability, and completing assigned work on time.
+
+This project reinforced how important collaboration is because each team member's work can affect the progress of the entire project.
+
+I also learned that understanding the shared project goal helps teams communicate more effectively and make better development decisions.
+
+## What I Learned
+
+This project strengthened my understanding of how Agile and Scrum practices can support software development from initial requirements through testing and delivery.
+
+It also helped me understand the importance of:
+
+- Translating user needs into actionable requirements
+- Breaking larger tasks into manageable work
+- Testing throughout development
+- Responding to feedback
+- Communicating clearly within a team
+- Continuously improving the development process
